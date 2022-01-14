@@ -1,0 +1,17 @@
+{
+    "name": "alii/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Ali Sidali",
+            "email": "aliisidali1992@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
